@@ -1,0 +1,2 @@
+# add appcache mime type
+AddType text/cache-manifest .manifest

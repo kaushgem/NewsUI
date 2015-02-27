@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# Version 0.5
+
+CACHE:
+index.html
+search.css
+js/news.js
+images/1417358996_95894.ico
+images/1417360103_63128.ico
+images/1417393817_100242.ico
+images/1417393823_221698.ico
+images/1417404477_95923.ico
+images/black_2.jpg
+images/Graphicloads-Polygon-Inside.ico
+images/offline.png
+
+#NETWORK:
+# These resources should not be cached
+
+FALLBACK:
+images/1417407574_330396.ico images/offline.png
+

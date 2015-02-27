@@ -1,0 +1,18 @@
+input:required {
+    background-color: rgba(255,0,0,0.2);
+}
+
+input:required:valid {
+    background-color: rgba(0,255,0,0.2);
+}
+
+input:focus:invalid {
+		background-color: red;
+    box-shadow: 0 0 1em red;
+    border-color: red;
+}
+
+input:focus:valid {
+    box-shadow: 0 0 1em green;
+    border-color: green;
+}
